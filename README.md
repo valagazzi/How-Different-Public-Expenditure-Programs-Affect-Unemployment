@@ -9,7 +9,7 @@ analysis to potentially guide policymakers in developing public expenditure poli
 maximize households' welfare while minimizing market distortions and negative externalities
 caused by these expenditures.
 
-##How to run
+## How to run
 
 In order to properly run the code of the file, Python and Jupyter Notebooks are required. 
 The file should be opened as a Jupyter Markdown. Moreover, the dataframes can be found in 
@@ -17,11 +17,11 @@ my personal website for download. Make sure to substitute the default paths when
 excel files for your own ones. Regarding the packages, the required ones are `pandas`, 
 `numpy`, `matplotlib`, and `statsmodels`.
 
-##The Data
+## The Data
 
 The data was taken from OCDE Data, that collects it from different sources. For more 
 information, visit my webpage and download the article. 
 
-##Contact
+## Contact
 
 For contact information, please visit my website: insightfulowldatascience.com
